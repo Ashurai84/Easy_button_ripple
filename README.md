@@ -9,7 +9,7 @@ This is a simple, elegant web UI project featuring **ripple effect buttons** and
 You can host this on GitHub Pages, Netlify, or Vercel for a live preview.
 
 > **Example (Replace with your own if hosted):**  
-> 🔗 [Live Demo](https://yourusername.github.io/ripple-cards-ui/)
+> 🔗 https:// Ashurai84.github.io/ripple-cards-ui/
 
 ---
 
