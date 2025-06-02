@@ -6,10 +6,10 @@ This is a simple, elegant web UI project featuring **ripple effect buttons** and
 
 ## 🚀 Live Demo
 
-You can host it on GitHub Pages, Netlify, or Vercel for a live preview.
+You can host this on GitHub Pages, Netlify, or Vercel for a live preview.
 
-> Example (replace with your own if hosted):  
-> 🔗 https://yourusername.github.io/ripple-cards-ui/
+> **Example (Replace with your own if hosted):**  
+> 🔗 [Live Demo](https://yourusername.github.io/ripple-cards-ui/)
 
 ---
 
@@ -20,9 +20,9 @@ You can host it on GitHub Pages, Netlify, or Vercel for a live preview.
   - Custom ripple animation using JavaScript and CSS
 
 - 🖼️ **Interactive Cards**
-  - Image cards with titles & descriptions
-  - On-hover gradient overlay for elegant highlight
-  - Responsive and mobile-friendly layout
+  - Image-based cards with overlay content
+  - On-hover gradient highlight effect
+  - Fully responsive for mobile and tablet views
 
 ---
 
@@ -30,9 +30,20 @@ You can host it on GitHub Pages, Netlify, or Vercel for a live preview.
 
 - ✅ HTML5
 - 🎨 CSS3 (Flexbox, Grid, Media Queries)
-- 🧠 Vanilla JavaScript (for ripple logic)
+- 🧠 JavaScript (for ripple logic)
 
 ---
 
-## if you want to check how this ripple works on hover 
-# you can check  button_riple file for hovering
+## 🔁 Ripple Hover Example
+
+Want to **see the ripple effect in action on hover**?
+
+Check out these dedicated ripple button demos:
+
+- 🧪 [Trial Ripple Button Demo (GitHub Pages)](https://ashurai84.github.io/Easy_button_ripple/)
+- 🌐 [Netlify Demo](https://jolly-chaja-5d7dad.netlify.app/)
+
+These examples show how you can apply the ripple effect to button hover interactions smoothly.
+
+
+
